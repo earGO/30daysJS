@@ -7,3 +7,4 @@ https://github.com/wesbos/JavaScript30.git
 
 the challenge-course itself is here
 
+https://javascript30.com/
